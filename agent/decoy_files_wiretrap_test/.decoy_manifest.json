@@ -1,0 +1,17 @@
+{
+  "last_rotation_utc": "2026-04-09T09:35:13.844797+00:00",
+  "paths": [
+    "agent\\decoy_files_wiretrap_test\\DEC0Y_finance_00.xlsx",
+    "agent\\decoy_files_wiretrap_test\\DEC0Y_finance_01.xlsx"
+  ],
+  "wiretraps": {
+    "agent\\decoy_files_wiretrap_test\\DEC0Y_finance_00.xlsx": {
+      "sha256": "8d2d23aef170c78abe74af80c9a0ad15f4e8dc814975da24b96ce45f81f9ef74",
+      "size": 106
+    },
+    "agent\\decoy_files_wiretrap_test\\DEC0Y_finance_01.xlsx": {
+      "sha256": "cd107ac98669f15f2f824a8831ff28d4dcba012418532b7223fa8d893f3645c3",
+      "size": 106
+    }
+  }
+}

@@ -1,0 +1,12 @@
+agent_id: endpoint-001
+api_token: ''
+decoy_count: 12
+decoy_watch_dir: agent/decoy_files
+enable_local_termination: true
+notify_every_cycles: 6
+pass_key: F2EA4AFDB454
+poll_seconds: 10
+popup_risk_threshold: 0.9
+runtime_status_path: agent/runtime_status.json
+server_url: http://127.0.0.1:8000
+sysmon_xml_path: ''

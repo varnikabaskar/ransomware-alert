@@ -1,0 +1,129 @@
+1
+00:00:00,000 --> 00:00:20,000
+R-GUARD hybrid ransomware defense demo
+Server-Agent architecture with Behavioral + Decoy trap detection
+
+2
+00:00:20,000 --> 00:00:45,000
+Agent collects endpoint telemetry and monitors decoy files
+Server performs ML inference and containment decisions
+
+3
+00:00:45,000 --> 00:01:05,000
+Decoy placement: finance-like bait files are created
+Examples: DEC0Y_finance_00.xlsx, DEC0Y_finance_01.xlsx
+
+4
+00:01:05,000 --> 00:01:25,000
+Trap integrity manifest (.decoy_manifest.json)
+Stores SHA-256 hash + size for tamper detection
+
+5
+00:01:25,000 --> 00:01:45,000
+Any unauthorized modify/delete/encrypt pattern on decoys
+raises wiretrap signal for immediate investigation
+
+6
+00:01:45,000 --> 00:02:05,000
+Server starts on port 8000
+Agent heartbeat and detect requests begin streaming
+
+7
+00:02:05,000 --> 00:02:25,000
+Dashboard opened: live system health + threat intelligence
+All panels update from backend alerts
+
+8
+00:02:25,000 --> 00:02:45,000
+CPU Usage card: current processor load percentage
+Green<60, Amber 60-80, Red>80
+
+9
+00:02:45,000 --> 00:03:05,000
+Memory Usage card: RAM pressure indicator
+Higher sustained values can signal stress during attack
+
+10
+00:03:05,000 --> 00:03:25,000
+Disk Activity card: I/O utilization trend
+Ransomware often causes sudden write bursts
+
+11
+00:03:25,000 --> 00:03:45,000
+Network Traffic card: throughput and anomaly surface
+Used to notice unusual communication spikes
+
+12
+00:03:45,000 --> 00:04:05,000
+System Activity chart:
+Blue=CPU, Green=Network, Red=suspicious events
+
+13
+00:04:05,000 --> 00:04:25,000
+Threat Trend chart:
+Hourly suspicious event count and attack surge visibility
+
+14
+00:04:25,000 --> 00:04:45,000
+Recent Alerts table:
+Time, Threat Type, Severity, Status
+
+15
+00:04:45,000 --> 00:05:05,000
+Notifications panel:
+Real-time queue of critical/high/medium events
+
+16
+00:05:05,000 --> 00:05:25,000
+Safe fake attack starts on decoy directory only
+No real ransomware, originals preserved
+
+17
+00:05:25,000 --> 00:05:45,000
+Script creates .locked copies to emulate encryption behavior
+This is controlled and presentation-safe
+
+18
+00:05:45,000 --> 00:06:05,000
+Agent detects decoy interaction and behavioral anomalies
+Server receives /agent/detect payload immediately
+
+19
+00:06:05,000 --> 00:06:25,000
+Detection metrics explained:
+behavioral_score, decoy_score, fused risk_score
+
+20
+00:06:25,000 --> 00:06:45,000
+Fusion rule:
+risk = 0.65*behavioral + 0.35*decoy
+
+21
+00:06:45,000 --> 00:07:05,000
+If risk >= threshold, alert is ransomware=true
+Severity escalates to critical when confidence is high
+
+22
+00:07:05,000 --> 00:07:25,000
+Containment phase:
+Suspicious processes are terminated with allowlist protection
+
+23
+00:07:25,000 --> 00:07:45,000
+Dashboard receives new critical alert in seconds
+Badge count and alert table update live
+
+24
+00:07:45,000 --> 00:08:05,000
+Alert details panel meaning:
+Threat, host, evidence, suggested action, containment notes
+
+25
+00:08:05,000 --> 00:08:25,000
+Result: attack signal detected early through decoy trap
+and validated by behavioral evidence
+
+26
+00:08:25,000 --> 00:08:45,000
+R-GUARD demonstrates low-latency detect + respond workflow
+for practical ransomware defense operations

@@ -1,0 +1,1106 @@
+{
+  "agent_id": "endpoint-001",
+  "host": "DESKTOP-P8MDA2F",
+  "ip_address": "10.120.216.35",
+  "poll_seconds": 10,
+  "last_cycle": 75,
+  "last_verdict": {
+    "agent_id": "endpoint-001",
+    "host": "DESKTOP-P8MDA2F",
+    "behavioral_score": 1.0,
+    "decoy_score": 0.0,
+    "risk_score": 0.3,
+    "severity": "normal",
+    "is_ransomware": true,
+    "reasons": [
+      "Behavioral sequence resembles ransomware encryption pattern"
+    ],
+    "suspected_processes": [],
+    "timestamp": "2026-05-13T02:57:05.253556Z"
+  },
+  "logs": [
+    {
+      "timestamp": 1778641109.2075882,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778641015.046499,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640998.0434768,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640986.4871006,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640974.403282,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640959.972534,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640945.1978772,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640933.610168,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640919.6496897,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640904.275998,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640891.5721521,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640879.9186795,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640782.2701461,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640770.1119204,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640758.5980742,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640746.5501618,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640729.6877244,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640717.0261066,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640697.4041002,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640684.6974993,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640671.863512,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640658.9815145,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640643.7868187,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640630.965704,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640618.6887715,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640600.1302688,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640588.1152368,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640560.3737044,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640546.3519762,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640531.1048326,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640518.9049916,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640507.0471077,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640495.150361,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640478.2086446,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640452.5021422,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640439.7821715,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640427.4183822,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640414.8841112,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640401.4766915,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640389.255313,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640378.4772496,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640365.6920218,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640351.2260146,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640339.366887,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640327.2117217,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640315.8443258,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640303.5027905,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640292.0102086,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640280.089928,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    },
+    {
+      "timestamp": 1778640268.3311102,
+      "risk": 0.3,
+      "severity": "normal",
+      "events": 25,
+      "trap_events": 0
+    }
+  ],
+  "alerts": [
+    {
+      "timestamp": 1778641109.2073956,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778641015.0462842,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640998.0432396,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640986.4867592,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640974.402975,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640959.96775,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640945.1976202,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640933.6098187,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640919.6494582,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640904.2755997,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640891.570958,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640879.9183564,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640782.269437,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640770.1113796,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640758.5974507,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640746.5494561,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640729.6873298,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640717.0257804,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640697.4034834,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640684.696063,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640671.8631077,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640658.9769194,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640643.7863271,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640630.9652462,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640618.6842368,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640600.1300123,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640588.1147492,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640560.3728714,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640546.3514397,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640531.1044838,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640518.9047794,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640507.0463688,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640495.149515,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640478.2083454,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640452.501832,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640439.7817652,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640427.4179885,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640414.8834112,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640401.4760692,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640389.254913,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640378.476968,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640365.691557,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640351.2253847,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640339.3661487,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640327.2114508,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640315.8436744,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640303.5023067,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640292.0098,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640280.089518,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    },
+    {
+      "timestamp": 1778640268.3307025,
+      "risk": 0.3,
+      "severity": "normal",
+      "suspected_processes": [],
+      "terminated": []
+    }
+  ],
+  "notifications": [
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778641109.2074013
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778641015.0462918
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640998.0432463
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640986.4867637
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640974.4029806
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640959.967759
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640945.197627
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640933.6098268
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640919.649468
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640904.2756047
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640891.5709631
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640879.918373
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640782.2694476
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640770.1113887
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640758.5974727
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640746.5494661
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640729.6873393
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640717.0257897
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640697.4034941
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640684.6960943
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640671.8631184
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640658.9769378
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640643.786344
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640630.9652574
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640618.684251
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640600.1300194
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640588.114759
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640560.3728836
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640546.351459
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640531.1044953
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640518.9047878
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640507.0463917
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640495.1495278
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640478.2083542
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640452.5018404
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640439.7817764
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640427.418002
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640414.8834496
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640401.4760814
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640389.2549238
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640378.4769754
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640365.6915667
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640351.2253962
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640339.3661773
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640327.2114568
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640315.8436944
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640303.5023184
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640292.0098114
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640280.089529
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640268.3307133
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640256.23414
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640244.3153994
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640231.2580686
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640218.3644922
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640190.1013901
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640179.5152533
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640167.9299264
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640156.8769875
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640145.3993952
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640134.6755307
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640122.1914198
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640111.3950667
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640097.1960905
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640086.3974752
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640073.2509086
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640060.5691292
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640047.247281
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640034.6319926
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640017.0043502
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778640004.6784868
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778639992.4250972
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778639971.9737055
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778639959.128921
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778639945.431817
+    },
+    {
+      "level": "critical",
+      "message": "High risk detected on DESKTOP-P8MDA2F. score=0.30",
+      "timestamp": 1778639928.2141848
+    }
+  ],
+  "health": {
+    "sysmon_enabled": false,
+    "decoy_watch_dir": "agent/decoy_files"
+  }
+}

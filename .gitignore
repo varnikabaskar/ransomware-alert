@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+models/*.pkl
+models/*.keras
+models/*.joblib
+server/.alerts.json
+agent/decoy_files/
+node_modules/
+.DS_Store

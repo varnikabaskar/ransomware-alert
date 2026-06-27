@@ -1,0 +1,5 @@
+file_ops_per_min,entropy_delta,extension_change_rate,failed_decrypt_ops,shadow_copy_delete_attempt,privilege_escalation_flag,label
+0.10,0.05,0.02,0.00,0.00,0.00,0
+0.12,0.08,0.03,0.00,0.00,0.00,0
+0.85,0.90,0.75,0.60,1.00,1.00,1
+0.82,0.88,0.72,0.55,1.00,1.00,1

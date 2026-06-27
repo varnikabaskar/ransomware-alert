@@ -1,0 +1,11 @@
+server_url: http://192.168.1.25:8000
+api_token: ""
+agent_id: endpoint-remote-001
+poll_seconds: 10
+sysmon_xml_path: ""
+decoy_watch_dir: agent/decoy_files
+decoy_count: 12
+enable_local_termination: true
+popup_risk_threshold: 0.90
+notify_every_cycles: 6
+runtime_status_path: agent/runtime_status.json
